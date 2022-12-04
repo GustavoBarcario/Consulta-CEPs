@@ -1,0 +1,11 @@
+C:\Curso\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.exe.config
+C:\Curso\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.exe
+C:\Curso\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.pdb
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.AssemblyReference.cache
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.SuggestedBindingRedirects.cache
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta_CEP.Form1.resources
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta_CEP.Properties.Resources.resources
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.GenerateResource.cache
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.CoreCompileInputs.cache
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.exe
+C:\Curso\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.pdb

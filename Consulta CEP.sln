@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consulta CEP", "Consulta CEP\Consulta CEP.csproj", "{493FAA84-9340-488A-802C-7C836169282D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493FAA84-9340-488A-802C-7C836169282D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493FAA84-9340-488A-802C-7C836169282D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493FAA84-9340-488A-802C-7C836169282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493FAA84-9340-488A-802C-7C836169282D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBE12AE-957F-4404-9BFD-481B71C25B5A}
+	EndGlobalSection
+EndGlobal
